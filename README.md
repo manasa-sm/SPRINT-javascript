@@ -22,7 +22,7 @@ Do not directly clone the repository as it is not considered as a good practice.
 ### Step#3: Create a new branch: 
 `git checkout -b new-user` (new user -> your name)
 
-### Step#4: Choose your fav issue you wanna build your script on from here [issues](https://github.com/Clinify-Open-Sauce/SPRINT-python/issues)
+### Step#4: Choose your fav issue you wanna build your script on from here [issues](https://github.com/Clinify-Open-Sauce/SPRINT-javascript/issues)
 
 ### Step#5 Add the functionality to your cloned repository 
 add your code to the repo and a readme file checkout the format for your Readme file here [Contribute](https://github.com/Clinify-Open-Sauce/SPRINT-javascript/blob/main/CONTRIBUTE.md)
@@ -33,7 +33,7 @@ add your code to the repo and a readme file checkout the format for your Readme 
 `git commit -m  "your name"`
 
 ### Step#8: Push to your fork 
-`git push origin new-user` and [submit a pull request](https://github.com/Clinify-Open-Sauce/SPRINT-python/compare).
+`git push origin new-user` and [submit a pull request](https://github.com/Clinify-Open-Sauce/SPRINT-javascript/compare).
 
 ### Step#9: Pat your self on the back
  and wait for your pull request to be reviewed and merged. Get yourself some coffee..you successfully made a PR
