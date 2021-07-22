@@ -14,8 +14,7 @@ body{
 }
 #character{
     width: 20px;
-    height: 50px;
-    background-color: red;
+    height: 30px;
     position: relative;
     top: 150px;
 }
@@ -37,11 +36,10 @@ body{
     }
 }
 #block{
-    background-color: blue;
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 40px;
     position: relative;
-    top: 130px;
+    top: 150px;
     left: 500px;
     animation: block 1s infinite linear;
 }
