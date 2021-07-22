@@ -1,7 +1,10 @@
 *{
-    padding: 0;
+    padding-top: 0;
     margin: 0;
     overflow: hidden;
+}
+body{
+    padding-top: 150px;
 }
 .game{
     width: 500px;
